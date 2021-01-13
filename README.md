@@ -29,7 +29,6 @@ Manipulate **generateQR.html** File in the repository to generate Qr code by
 * changing the "qrString" variable value accordingly.
 
 ~~~html
-```html
 <!DOCTYPE html>
 <html>
    <head>
@@ -44,7 +43,6 @@ Manipulate **generateQR.html** File in the repository to generate Qr code by
       </script>
    </body>
 </html>
-```
 ~~~
 
 ![alt text](https://raw.githubusercontent.com/ta-verma/qrcode/master/qr%20code.png)
